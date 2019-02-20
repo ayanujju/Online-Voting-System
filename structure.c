@@ -1,3 +1,5 @@
+// Include Structure Part
+
 typedef struct  voter_information
 {
 
@@ -12,6 +14,7 @@ typedef struct  voter_information
 
 node *head;
 
+// Include some fucnctions and variable declarations
 
 int cunt1=0, cunt2=0, cunt3=0, cunt4=0, cunt5=0;
 void main_loges();
